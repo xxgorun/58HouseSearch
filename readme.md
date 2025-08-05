@@ -58,7 +58,9 @@
 ## 友情链接
 
 - [Sekiro rpc: Web 瑞士军刀](https://github.com/yint-tech/sekiro-open)
+- [web-clock: 网页时钟，老iPad定向优化版本](https://github.com/liguobao/web-clock)
 - [zhihu-copilot 浏览器插件](https://github.com/liguobao/zhihu-copilot)
 
+## Star History
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+[![Star History Chart](https://api.star-history.com/svg?repos=liguobao/HouseSearch&type=Date)](https://www.star-history.com/#liguobao/HouseSearch&Date)
